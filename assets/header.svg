@@ -1,36 +1,36 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="350" viewBox="0 0 1200 350" role="img" aria-labelledby="title desc">
 <title id="title">N3ruk — Linux, with room to play.</title>
-<desc id="desc">Original dark circuit-board artwork with green and blue accents and a game controller. Linux gaming, desktop tools and PlayStation 2.</desc>
+<desc id="desc">Original dark circuit-board artwork with violet and lilac neon accents and a game controller. Linux gaming, desktop tools and PlayStation 2.</desc>
 <defs>
- <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0b141e"/><stop offset="1" stop-color="#111f2d"/></linearGradient>
- <linearGradient id="accent"><stop stop-color="#b4f272"/><stop offset="1" stop-color="#64c8ed"/></linearGradient>
- <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#8ab2cb" stroke-opacity=".07"/></pattern>
+ <linearGradient id="bg" x2="1" y2="1"><stop stop-color="#0d0816"/><stop offset="1" stop-color="#1d1033"/></linearGradient>
+ <linearGradient id="accent"><stop stop-color="#c66bff"/><stop offset="1" stop-color="#9d7bff"/></linearGradient>
+ <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><path d="M32 0H0V32" fill="none" stroke="#b297d4" stroke-opacity=".07"/></pattern>
 </defs>
 <rect width="1200" height="350" rx="22" fill="url(#bg)"/>
 <rect width="1200" height="350" rx="22" fill="url(#grid)"/>
-<path d="M1 280H605L650 325H1199" fill="none" stroke="#8ab2cb" stroke-opacity=".14"/>
+<path d="M1 280H605L650 325H1199" fill="none" stroke="#b297d4" stroke-opacity=".14"/>
 <path d="M1 281H174" fill="none" stroke="url(#accent)" stroke-width="3"/>
 <g font-family="DejaVu Sans,Arial,sans-serif">
- <text x="56" y="56" fill="#b4f272" font-size="15" letter-spacing="4">THE LINUX WORKSHOP</text>
- <text x="50" y="166" fill="#f1f5f9" font-size="104" font-weight="800" letter-spacing="-5">N3ruk<tspan fill="#b4f272">_</tspan></text>
- <text x="56" y="218" fill="#e0e9f0" font-size="29" font-weight="500">Linux, with room to play.</text>
- <text x="56" y="256" fill="#9cb0c0" font-size="18">Gaming sessions. Desktop tools. PS2 libraries.</text>
- <text x="56" y="317" fill="#9cb0c0" font-size="14" letter-spacing="2">BUILD / TEST / REFINE</text>
+ <text x="56" y="56" fill="#c66bff" font-size="15" letter-spacing="4">THE LINUX WORKSHOP</text>
+ <text x="50" y="166" fill="#f8f2ff" font-size="104" font-weight="800" letter-spacing="-5">N3ruk<tspan fill="#c66bff">_</tspan></text>
+ <text x="56" y="218" fill="#eee2fa" font-size="29" font-weight="500">Linux, with room to play.</text>
+ <text x="56" y="256" fill="#bba8d1" font-size="18">Gaming sessions. Desktop tools. PS2 libraries.</text>
+ <text x="56" y="317" fill="#bba8d1" font-size="14" letter-spacing="2">BUILD / TEST / REFINE</text>
 </g>
 <g fill="none" stroke-linejoin="round" stroke-linecap="round">
- <path d="M728 64H794L820 90H1150M728 286H790L820 256H1150" stroke="#64c8ed" stroke-opacity=".3" stroke-width="2"/>
- <path d="M1130 40V76M1100 58H1160M744 172H785M1120 172H1160M958 40V76M958 268V308" stroke="#9cb0c0" stroke-opacity=".25" stroke-width="2"/>
- <circle cx="958" cy="172" r="119" stroke="#64c8ed" stroke-opacity=".15"/>
- <circle cx="958" cy="172" r="99" stroke="#b4f272" stroke-opacity=".11" stroke-dasharray="3 12"/>
- <path d="M881 119Q866 119 860 142L837 220Q830 249 853 249Q863 249 875 235L904 207H1010L1040 235Q1052 249 1063 249Q1086 249 1078 220L1056 142Q1050 119 1035 119Z" fill="#122433" stroke="url(#accent)" stroke-width="4"/>
- <path d="M888 150V182M872 166H904" stroke="#b4f272" stroke-width="9"/>
- <circle cx="1030" cy="151" r="5" fill="#64c8ed" stroke="#64c8ed"/>
- <circle cx="1045" cy="167" r="5" fill="#b4f272" stroke="#b4f272"/>
- <circle cx="1014" cy="167" r="5" stroke="#b4f272" stroke-width="2"/>
- <circle cx="1030" cy="183" r="5" stroke="#64c8ed" stroke-width="2"/>
- <path d="M945 156H956M968 156H979" stroke="#9cb0c0" stroke-width="3"/>
- <circle cx="929" cy="190" r="10" stroke="#9cb0c0" stroke-width="2"/>
- <circle cx="989" cy="190" r="10" stroke="#9cb0c0" stroke-width="2"/>
- <circle cx="728" cy="64" r="4" fill="#64c8ed" stroke="none"/><circle cx="1150" cy="256" r="4" fill="#b4f272" stroke="none"/>
+ <path d="M728 64H794L820 90H1150M728 286H790L820 256H1150" stroke="#9d7bff" stroke-opacity=".3" stroke-width="2"/>
+ <path d="M1130 40V76M1100 58H1160M744 172H785M1120 172H1160M958 40V76M958 268V308" stroke="#bba8d1" stroke-opacity=".25" stroke-width="2"/>
+ <circle cx="958" cy="172" r="119" stroke="#9d7bff" stroke-opacity=".15"/>
+ <circle cx="958" cy="172" r="99" stroke="#c66bff" stroke-opacity=".11" stroke-dasharray="3 12"/>
+ <path d="M881 119Q866 119 860 142L837 220Q830 249 853 249Q863 249 875 235L904 207H1010L1040 235Q1052 249 1063 249Q1086 249 1078 220L1056 142Q1050 119 1035 119Z" fill="#241238" stroke="url(#accent)" stroke-width="4"/>
+ <path d="M888 150V182M872 166H904" stroke="#c66bff" stroke-width="9"/>
+ <circle cx="1030" cy="151" r="5" fill="#9d7bff" stroke="#9d7bff"/>
+ <circle cx="1045" cy="167" r="5" fill="#c66bff" stroke="#c66bff"/>
+ <circle cx="1014" cy="167" r="5" stroke="#c66bff" stroke-width="2"/>
+ <circle cx="1030" cy="183" r="5" stroke="#9d7bff" stroke-width="2"/>
+ <path d="M945 156H956M968 156H979" stroke="#bba8d1" stroke-width="3"/>
+ <circle cx="929" cy="190" r="10" stroke="#bba8d1" stroke-width="2"/>
+ <circle cx="989" cy="190" r="10" stroke="#bba8d1" stroke-width="2"/>
+ <circle cx="728" cy="64" r="4" fill="#9d7bff" stroke="none"/><circle cx="1150" cy="256" r="4" fill="#c66bff" stroke="none"/>
 </g>
 </svg>

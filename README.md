@@ -94,20 +94,20 @@ Python-first desktop apps, Linux integration and packaged releases.
 
 **Applications & scripting**
 
-![Python](https://img.shields.io/badge/Python-182735?style=flat-square&logo=python&logoColor=B4F272)
-![Shell](https://img.shields.io/badge/Shell-182735?style=flat-square&logo=gnubash&logoColor=B4F272)
-![Qt](https://img.shields.io/badge/Qt_6-182735?style=flat-square&logo=qt&logoColor=B4F272)
-![GTK](https://img.shields.io/badge/GTK-182735?style=flat-square&logo=gtk&logoColor=B4F272)
-![TypeScript](https://img.shields.io/badge/TypeScript-182735?style=flat-square&logo=typescript&logoColor=B4F272)
+![Python](https://img.shields.io/badge/Python-241238?style=flat-square&logo=python&logoColor=C66BFF)
+![Shell](https://img.shields.io/badge/Shell-241238?style=flat-square&logo=gnubash&logoColor=C66BFF)
+![Qt](https://img.shields.io/badge/Qt_6-241238?style=flat-square&logo=qt&logoColor=C66BFF)
+![GTK](https://img.shields.io/badge/GTK-241238?style=flat-square&logo=gtk&logoColor=C66BFF)
+![TypeScript](https://img.shields.io/badge/TypeScript-241238?style=flat-square&logo=typescript&logoColor=C66BFF)
 
 **Linux integration & delivery**
 
-![Linux](https://img.shields.io/badge/Linux-182735?style=flat-square&logo=linux&logoColor=64C8ED)
-![Steam](https://img.shields.io/badge/Steam-182735?style=flat-square&logo=steam&logoColor=64C8ED)
-![Gamescope](https://img.shields.io/badge/Gamescope-182735?style=flat-square&logoColor=64C8ED)
-![AppImage](https://img.shields.io/badge/AppImage-182735?style=flat-square&logoColor=64C8ED)
-![Debian packages](https://img.shields.io/badge/DEB-182735?style=flat-square&logo=debian&logoColor=64C8ED)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-182735?style=flat-square&logo=githubactions&logoColor=64C8ED)
+![Linux](https://img.shields.io/badge/Linux-241238?style=flat-square&logo=linux&logoColor=B79AFF)
+![Steam](https://img.shields.io/badge/Steam-241238?style=flat-square&logo=steam&logoColor=B79AFF)
+![Gamescope](https://img.shields.io/badge/Gamescope-241238?style=flat-square&logoColor=B79AFF)
+![AppImage](https://img.shields.io/badge/AppImage-241238?style=flat-square&logoColor=B79AFF)
+![Debian packages](https://img.shields.io/badge/DEB-241238?style=flat-square&logo=debian&logoColor=B79AFF)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-241238?style=flat-square&logo=githubactions&logoColor=B79AFF)
 
 ## How I approach a project
 
