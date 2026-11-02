@@ -30,7 +30,7 @@ A dedicated **Gamescope + Steam Gamepad UI** session for Ubuntu, alongside the r
 </td>
 <td width="50%" valign="top">
 
-### 02 / SteamCommandGen
+### 02 / Steam<wbr>Command<wbr>Gen
 
 A graphical way to build and manage **Steam launch options**. Gamescope scaling, FSR/NIS, HDR, VRR and MangoHud without hand-writing long commands.
 
