@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/N3ruk/N3ruk/main/assets/header.svg" width="100%" alt="N3ruk — Linux, with room to play. Gaming sessions, desktop tools and PS2 libraries.">
+  <img src="https://raw.githubusercontent.com/N3ruk/N3ruk/main/assets/header.svg?v=violet-1" width="100%" alt="N3ruk — Linux, with room to play. Gaming sessions, desktop tools and PS2 libraries.">
 </p>
 
 <p align="center"><strong>English</strong> · <a href="README_ES.md">Español</a></p>
