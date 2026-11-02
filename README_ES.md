@@ -30,7 +30,7 @@ Una sesión dedicada de **Gamescope + Steam Gamepad UI** en Ubuntu, junto al esc
 </td>
 <td width="50%" valign="top">
 
-### 02 / Steam<wbr>Command<wbr>Gen
+### 02 / Steam&#8203;Command&#8203;Gen
 
 Una interfaz para crear y gestionar **opciones de lanzamiento de Steam**. Escalado con Gamescope, FSR/NIS, HDR, VRR y MangoHud sin escribir comandos largos a mano.
 
