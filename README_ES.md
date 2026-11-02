@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/N3ruk/N3ruk/main/assets/header.svg?v=violet-1" width="100%" alt="N3ruk — Linux con espacio para jugar. Sesiones gaming, utilidades de escritorio y bibliotecas de PS2.">
+  <img src="https://raw.githubusercontent.com/N3ruk/N3ruk/01c2a66e737a0d2b4dd6854be86af332b70db466/assets/header.svg" width="100%" alt="N3ruk — Linux con espacio para jugar. Sesiones gaming, utilidades de escritorio y bibliotecas de PS2.">
 </p>
 
 <p align="center"><a href="README.md">English</a> · <strong>Español</strong></p>
